@@ -12,4 +12,6 @@ conda install -c conda-forge scrapy
 
 Alternatively, if you’re on Linux or Mac OSX, you can directly install scrapy by:
 
-pip install scrapy
+pip install scrapy 
+
+For more info visite: https://docs.scrapy.org/en/latest/topics/commands.html
